@@ -15,5 +15,6 @@
   "Version":"0.2.0-Unstable5",                              
   "PreReleasePartOne":5,                                    
   "PreReleaseNumber":5,                                     
-  "Stability":"Unstable"                                    
+  "Stability":"Unstable",
+  "AssemblySemVer":"Blah"
 }                                                                                                         
