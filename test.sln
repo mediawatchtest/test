@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{5FF0CFFD-0460-42FD-9F37-AC7A1EB6E085}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{80B46234-329C-42ED-A25C-25E375A32319}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{08180E58-F2CC-4873-88EE-2852D0F79233}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unit.tests", "unit.tests\unit.tests.csproj", "{BD34CCA9-5023-4575-855C-DC29FD6159AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +20,10 @@ Global
 		{5FF0CFFD-0460-42FD-9F37-AC7A1EB6E085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FF0CFFD-0460-42FD-9F37-AC7A1EB6E085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FF0CFFD-0460-42FD-9F37-AC7A1EB6E085}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80B46234-329C-42ED-A25C-25E375A32319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80B46234-329C-42ED-A25C-25E375A32319}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80B46234-329C-42ED-A25C-25E375A32319}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80B46234-329C-42ED-A25C-25E375A32319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD34CCA9-5023-4575-855C-DC29FD6159AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD34CCA9-5023-4575-855C-DC29FD6159AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD34CCA9-5023-4575-855C-DC29FD6159AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD34CCA9-5023-4575-855C-DC29FD6159AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
