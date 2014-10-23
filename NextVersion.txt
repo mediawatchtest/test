@@ -1,4 +1,19 @@
 {                                                           
-  
-  "AssemblySemVer":"unstable"
-}                                                           
+  "Major":0,                                                
+  "Minor":2,                                                
+  "Patch":0,                                                
+  "Suffix":"",                                              
+  "LongVersion":"0.2.0-unstable5 Branch:'develop' Sha:'bf5ee
+69ae1f5bbea2246c76500b49eb02453da07'",                      
+  "NugetVersion":"0.2.0-Unstable0005",                      
+  "ShortVersion":"0.2.0-unstable5",                         
+  "BranchName":"develop",                                   
+  "BranchType":"Develop",                                   
+  "Sha":"bf5ee69ae1f5bbea2246c76500b49eb02453da07",         
+  "MajorMinorPatch":"0.2.0",                                
+  "SemVer":"0.2.0-Unstable5",                               
+  "Version":"0.2.0-Unstable5",                              
+  "PreReleasePartOne":5,                                    
+  "PreReleaseNumber":5,                                     
+  "Stability":"Unstable"                                    
+}                                                                                                         
