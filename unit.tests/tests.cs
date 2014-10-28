@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+using Xunit;
+
 
 
 
@@ -11,7 +13,15 @@ using System.Text;
 
 namespace unit.tests
 {
-    class tests
+    public class tests
     {
+        [Fact]
+        public void test{
+
+            Assert.True(true);
+
+        }
     }
+
+    
 }
