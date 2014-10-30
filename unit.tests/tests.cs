@@ -20,6 +20,7 @@ namespace unit.tests
         public void test(){
 
             Assert.True(false);
+            Assert.True(true);
 
         }
     }
