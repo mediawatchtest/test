@@ -19,7 +19,6 @@
                 Assert.True(true);
                 Assert.True(true);
                 Assert.True(true);
-                Assert.True(true);
 
             }
         }
